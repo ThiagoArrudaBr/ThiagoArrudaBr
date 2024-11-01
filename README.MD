@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou formado em Análise de QA pela TripleTen (Brasil), adquiri habilidades em testes manuais de sites e aplicativos WEB, utilizando diferentes plataformas e navegadores. A minha experiência inclui testar recursos e verificar os requisitos de back-end e front-end, garantir uma boa análise, verificar e relatar erros, para assim criar relatórios de Bugs bem detalhados dos problemas encontrados. Aprendi como criar Ckecklists e Casos de Testes detalhados. Aprendi como testar utilizando um serviço de rotas (Urban.Routes) e testes em um serviço de reserva de uma Scooter (Urban Scooter) pela plataforma do Bootcamp. Aprendi como testar a interface de usuário em aplicativos Web. Adquiri conhecimento na utilização do JIRA para abrir e relatar Bugs, no Postman para testes de API e também no VSCode. E estou aperfeiçoando o meu aprendizado em SQL , Testes Automatizados e Java.</p>
+<p align="left">Sou formado em Análise de QA pela TripleTen (Brasil), adquiri habilidades em testes manuais de sites e aplicativos WEB, utilizando diferentes plataformas e navegadores. A minha experiência inclui testar recursos e verificar os requisitos de BACK-END e FRONT-END, garantir uma boa análise, verificar e relatar erros, para assim criar relatórios de Bugs bem detalhados dos problemas encontrados. Aprendi como criar CHECKLISTS e CASOS DE TESTES detalhados. Aprendi como testar utilizando um serviço de rotas (Urban.Routes) e testes em um serviço de reserva de uma Scooter (Urban Scooter) pela plataforma do Bootcamp. Aprendi como testar a interface de usuário em aplicativos Web. Adquiri conhecimento na utilização do JIRA para abrir e relatar BUGS, no POSTMAN para TESTES DE API e também no VSCODE. E estou aperfeiçoando o meu aprendizado em SQL , TESTES AUTOMATIZADOS e JAVA.</p>
 
 ###
 
@@ -61,6 +61,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
+
+###
+
+<h3 align="left">Contatos:</h3>
 
 ###
 
