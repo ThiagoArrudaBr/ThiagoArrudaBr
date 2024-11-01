@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Javascript . Typescript . NodeJs . Android . Canva . Google Chorme/Cloud . Facebook . Figma . Firefox . Jira . Opera . Photoshop . PostgreSQL . Safari . Postman . Instagram . GitHub . HTML5 . MySQL . VsCode . Apple
+<p align="left">Javascript . Typescript . NodeJs . Android . Canva . Google Chorme . Facebook . Figma . Firefox . Google . Google Cloud.  Jira . Opera . Photoshop . PostgreSQL . Safari . Postman . Instagram . GitHub . HTML5 . MySQL . VsCode . Apple
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
